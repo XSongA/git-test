@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("Hello JavaScript!");
         System.out.println("master test!");
         System.out.println("Hello HTML!");
+        System.out.println("push test!");
     }
 }
